@@ -1,6 +1,6 @@
 # RW-PCBs
 
-Disclaimer: These were only designed, and prototyped but have not been tested.
+Disclaimer: These were only designed, and prototyped but have not been tested. 
 
 These PCBs are RW version of the Talon SRX Breakout Board and a simple CAN Bus Daisy Chain Board. This is standardized around
 the Molex SL latching type of connector (50-57-9405). This type of connector also connects to US Digital S5 Encoders
@@ -10,6 +10,8 @@ Talon SRX Breakout Board BOM
   Molex 15-91-3053       Qty 1
   Lite-On LTST-C171KRKT  Qty 1 (Optional)
   Susumu RR1220P-222-D   Qty 1 (Optional)
+  
+Based on MVRT / FRC Team 115's Open Source Design.
 ```
 
 CAN Devices need to be wired into a Molex SL type connectors(50-579404) with the H (green) paired in the middle 2 positions,
