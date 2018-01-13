@@ -1,6 +1,6 @@
-# RW-PCBs
+# RW-PCB-Public
 
-Disclaimer: These were only designed, and prototyped but have not been tested. 
+Disclaimer: These were only designed, and prototyped but have not been tested.
 
 These PCBs are RW version of the Talon SRX Breakout Board and a simple CAN Bus Daisy Chain Board. This is standardized around
 the Molex SL latching type of connector (50-57-9405). This type of connector also connects to US Digital S5 Encoders
@@ -24,3 +24,5 @@ RW CAN
   Molex 70543-0108       Qty 14
 ```
 GERBER Files are exported for SEEEDSTUDIO's FUSION Service @ $4.90 + ship.
+
+Update (2018/01/13): Breakouts are good to go. SMD LED and Resistors are a bit on the small side.
